@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohzaequij.dynadruckluft.de/sitemap.xml
